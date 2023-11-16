@@ -1,5 +1,11 @@
 This is a Unity package for reading Moonscraper charts. None of this code is new - it was simply just carved out of the [Moonscraper codebase](https://github.com/FireFox2000000/Moonscraper-Chart-Editor/) and put together here as a Unity package.
 
+## Installation
+
+Follow the instructions here: https://docs.unity3d.com/Manual/upm-ui-giturl.html
+
+For the "Git URL", use: `https://github.com/createdelic/MoonscraperChartLibrary.git`
+
 ## Example usage
 
 ```csharp
